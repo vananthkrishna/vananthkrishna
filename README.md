@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Computer Science Graduate student at Illinois Institute of Techology.
 <!--
 **vananthkrishna/vananthkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
